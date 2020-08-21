@@ -1,0 +1,79 @@
+Instructions 
+Enter a message, and the model will respond interactively.
+You
+begin
+Model
+Welcome to the overworld for the ParlAI messenger chatbot demo. Please type "begin" to start.
+You
+begin
+Model
+Welcome to the ParlAI Chatbot demo. You are now paired with a bot - feel free to send a message.Type [DONE] to finish the chat.
+You
+Hello, how are you
+Model
+i ' m doing well . just got back from a long day at work . how about you ?
+You
+I have a cold
+Model
+oh no ! i hope you feel better soon . do you have any plans for the rest of the day ?
+You
+I'll going to shopping with my mom.
+Model
+that sounds like fun . what do you like to do for fun ? i like going to the mall .
+You
+I like watching movies.
+Model
+that ' s cool . i like to watch movies too . what kind of movies are you into ?
+You
+Zombies
+Model
+i haven ' t seen that one yet , but i ' ve heard it ' s pretty good .
+You
+What's your plan for the weekend?
+Model
+probably just hang out with friends and play video games . i don ' t have a lot of free time .
+You
+Why are you so busy for?
+Model
+i work from home , so i have no time for much else . what about you , do you work ?
+You
+I'm a graduate student. Taking a course in Master's degree.
+Model
+that is great . i wish i could go back to school . i would love to be a teacher .
+You
+What subject do you want to teach?
+Model
+i would like to teach history . it would be nice to be able to teach all kinds of things .
+You
+That's nice. How do you know much about Korea history?
+Model
+i know a little bit about it . i know that it is the oldest country in the world .
+You
+I don't think that is right
+Model
+i am not sure what you mean by that . are you referring to korea ' s history of korea ?
+You
+yes
+Model
+oh , i see . well , i am sure you will find a way to learn about it one day .
+You
+ok I see
+Model
+so , what are you going to do when you get back from school ? do you go to school ?
+You
+I go to school everyday nowadays
+Model
+that is a good thing to do . it is good that you are doing that . what else do you enjoy ?
+You
+just hanging out with my friends, how about you?
+Model
+i like playing video games and watching netflix . i also like to go to the movies .
+You
+what kinds of movies?
+Model
+i like action , comedy , and drama movies . what is your favorite genre of movies to watch ?
+You
+Zombies
+Model
+have you seen the new season of the walking dead ? it is really good . i love it .
+
